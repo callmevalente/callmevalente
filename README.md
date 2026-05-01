@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Pedro 👋
 
-<!--
-**callmevalente/callmevalente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on building scalable systems with Node.js and TypeScript.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Backend & full-stack focused
+- Experience building automation frameworks and developer tooling
+- Interested in building reliable, scalable systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Node.js / TypeScript / JavaScript
+- REST APIs
+- Playwright / Automation
+- Linux / Git
+
+## 📌 Featured Projects
+
+### 🧪 TestOps Dashboard (In Progress)
+Full-stack app to manage and visualize automated test workflows  
+Tech: React, Node.js, PostgreSQL  
+
+### ⚙️ Automation Framework
+Playwright-based testing framework with reusable components and API-driven setup  
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/your-link
