@@ -9,6 +9,7 @@ Software Engineer focused on building scalable systems with Node.js and TypeScri
 
 ## 🛠️ Tech Stack
 - Node.js / TypeScript / JavaScript
+- Python
 - REST APIs
 - Playwright / Automation
 - Linux / Git
