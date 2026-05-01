@@ -24,4 +24,4 @@ Tech: React, Node.js, PostgreSQL
 Playwright-based testing framework with reusable components and API-driven setup  
 
 ## 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/your-link
+- LinkedIn: https://www.linkedin.com/in/pedro-valente-araujo/
